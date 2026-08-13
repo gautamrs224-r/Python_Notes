@@ -4,6 +4,7 @@
 # Comments has two types
 # 1. inline comment
 # 2. Multiline comment 
+""" This Multiline comment is used to explain the code in more detail. It can span multiple lines and is enclosed in triple quotes. """
 # Pip is a package mangager for Python that allow you to install and manage additional libraries and dependencies that are not included in the standard library.
 
 # I downloaded a module named pyjokes using pip. This module is used to generate random jokes in Python. Let's see how it works.
