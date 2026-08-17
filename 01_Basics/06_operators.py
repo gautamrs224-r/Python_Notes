@@ -95,15 +95,10 @@ user_height = 5.9
 t = type(user_height)
 print("Type of variable user_height is:", t) # Output: Type of variable user_height is: <class 'float'>
 
-# Tpyecasting
+# 
 # Typecasting is the process of converting one data type to another. In Python, you can use the following functions to perform typecasting:
 # 1. int() - converts a value to an integer
 # 2. float() - converts a value to a floating-point number
 # 3. str() - converts a value to a string
 # 4. bool() - converts a value to a boolean
 # Example of typecasting
-x = "10"
-y = int(x)
-print("Type of variable y is:", type(y)) # Output: Type of variable y is: <class 'int'>
-z = float(x)
-print("Type of variable z is:", type(z)) # Output: Type of variable z is: <class 'float'>
