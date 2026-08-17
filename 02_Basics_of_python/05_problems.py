@@ -37,3 +37,25 @@ print("Is 'a' greater than 'b'? ", a > b)
 # num = float(input("Enter a number: "))
 # square = num ** 2
 # print("The square of", num, "is", square)
+
+# 7. Write a python program to make a Calculator with 4 basic mathematical operations.
+# Take input from user
+# num1 = float(input("Enter first number: "))
+# num2 = float(input("Enter second number: "))
+# operator = input("Enter operator (+, -, *, /): ")
+
+# # Perform operation
+# if operator == "+":
+#     result = num1 + num2
+# elif operator == "-":
+#     result = num1 - num2
+# elif operator == "*":
+#     result = num1 * num2
+# elif operator == "/":
+#     result = num1 / num2
+# else:
+#     print("Invalid operator")
+#     exit()
+
+# # Print result
+# print(num1, operator, num2, "=", result)
