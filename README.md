@@ -103,23 +103,23 @@ I'll mainly follow my primary course and use CodeWithHarry whenever I need a Hin
 
 ## 01 🐣 Python Basics
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Mastered
 
-* ⬜ What is Python?
-* ⬜ Python Installation
-* ⬜ Python Versions
-* ⬜ Running Python
-* ⬜ Python Syntax
-* ⬜ Comments
-* ⬜ Variables
-* ⬜ Naming Conventions
-* ⬜ Keywords
-* ⬜ Data Types
-* ⬜ Type Checking
-* ⬜ Type Conversion
-* ⬜ Input
-* ⬜ Output
-* ⬜ Operators
+* ✅ What is Python?
+* ✅ Python Installation
+* ✅ Python Versions
+* ✅ Running Python
+* ✅ Python Syntax
+* ✅ Comments
+* ✅ Variables
+* ✅ Naming Conventions
+* ✅ Keywords
+* ✅ Data Types
+* ✅ Type Checking
+* ✅ Type Conversion
+* ✅ Input
+* ✅ Output
+* ✅ Operators
 
 📁 `01_Basics/`
 
